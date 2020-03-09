@@ -1,9 +1,5 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">题目一、题目二</router-link> |
-      <router-link to="/about">题目三-题目十二</router-link>
-    </div>
     <router-view/>
   </div>
 </template>
